@@ -6,6 +6,8 @@
 </template>
 
 <script>
+document.title = "AAGE"
+
 
 import Header from "@/components/base/header";
 export default {
